@@ -10,7 +10,8 @@ KPI Cards Questions:
   Highest Used AI Tool
   Fastest Growing AI Tool
 
-![Uploading AI tabledata.JPG…]()
+<img width="832" height="508" alt="AI tabledata" src="https://github.com/user-attachments/assets/9c242fd7-adc0-4228-888d-c738c702afc7" />
+
 
   
  <img width="804" height="508" alt="image" src="https://github.com/user-attachments/assets/9b901528-be70-4272-9b82-a2c3ec8e4582" />
